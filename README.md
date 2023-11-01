@@ -11,7 +11,7 @@
 ###
 
 <p align="left"> 🌱 I'm passionate about Data Science having expertise in Computer Vision and Natural Language Processing. I strongly believe in leveraging the power of AI/ML to create a meaningful impact. </p>
-<p align="left"> 📫 Reach me at <a>ppatilganesh533@gmail.com</a> </p>
+<p align="left"> 📫 Reach me at <href>ppatilganesh533@gmail.com</href> </p>
 
 
 <h2 align="left">I code with</h2>
