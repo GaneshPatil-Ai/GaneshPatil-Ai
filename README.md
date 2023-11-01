@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left"> I'm passionate about Data Science having expertise in Computer Vision and Natural Language Processing. I strongly believe in leveraging the power of AI/ML to create a meaningful impact. </p>
+<p align="left"> 🌱 I'm passionate about Data Science having expertise in Computer Vision and Natural Language Processing. I strongly believe in leveraging the power of AI/ML to create a meaningful impact. </p>
+<p align="left"> 📫 Reach me at ppatilganesh533@gmail.com </p>
+
 
 <h2 align="left">I code with</h2>
 
